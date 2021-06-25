@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1120px" height="540px" viewBox="0 0 1120 540" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>Modell 8a (final)</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="16" y="117" width="44" height="68"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="44" height="68" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Modell-8a-(final)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-9" transform="translate(84.000000, 87.000000)">
+            <g id="Group-3">
+                <rect id="Rectangle" fill="#9D9D9D" x="9" y="103" width="78" height="2"></rect>
+                <rect id="Rectangle-Copy-20" fill="#9D9D9D" x="9" y="197" width="78" height="2"></rect>
+                <rect id="Rectangle-Copy-23" fill="#9D9D9D" transform="translate(95.000000, 151.000000) rotate(-270.000000) translate(-95.000000, -151.000000) " x="56" y="150" width="78" height="2"></rect>
+                <rect id="Rectangle-Copy-24" fill="#9D9D9D" transform="translate(1.000000, 151.000000) rotate(-270.000000) translate(-1.000000, -151.000000) " x="-38" y="150" width="78" height="2"></rect>
+                <circle id="Oval" fill="#58007C" cx="25" cy="174" r="6"></circle>
+                <g id="Group-2" transform="translate(10.000000, 263.000000)">
+                    <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="76" height="5"></rect>
+                    <rect id="Rectangle-Copy" fill="#D8D8D8" x="0" y="11" width="76" height="5"></rect>
+                    <rect id="Rectangle-Copy-2" fill="#D8D8D8" x="0" y="22" width="76" height="5"></rect>
+                    <rect id="Rectangle-Copy-3" fill="#D8D8D8" x="0" y="33" width="76" height="5"></rect>
+                    <rect id="Rectangle-Copy-4" fill="#D8D8D8" x="0" y="44" width="76" height="5"></rect>
+                    <rect id="Rectangle-Copy-5" fill="#D8D8D8" x="0" y="55" width="76" height="5"></rect>
+                    <rect id="Rectangle-Copy-6" fill="#D8D8D8" x="0" y="66" width="76" height="5"></rect>
+                    <rect id="Rectangle-Copy-7" fill="#D8D8D8" x="0" y="77" width="76" height="5"></rect>
+                    <rect id="Rectangle-Copy-8" fill="#D8D8D8" x="0" y="88" width="76" height="5"></rect>
+                    <rect id="Rectangle-Copy-9" fill="#D8D8D8" x="0" y="99" width="76" height="5"></rect>
+                    <rect id="Rectangle" fill="#58007C" x="24" y="33" width="18" height="5"></rect>
+                </g>
+                <text id="Orte" font-family="Helvetica" font-size="14" font-weight="normal" fill="#000000">
+                    <tspan x="0" y="14">Orte</tspan>
+                </text>
+            </g>
+            <g id="Group-5" transform="translate(350.000000, 0.000000)">
+                <circle id="Oval-Copy-3" fill="#58007C" opacity="0.200888497" cx="15" cy="174" r="5"></circle>
+                <circle id="Oval-Copy-5" fill="#58007C" cx="39" cy="150" r="5"></circle>
+                <circle id="Oval-Copy-6" fill="#58007C" opacity="0.600206648" cx="27" cy="162" r="5"></circle>
+                <circle id="Oval-Copy-7" fill="#58007C" opacity="0.598100935" cx="50" cy="139" r="5"></circle>
+                <circle id="Oval-Copy-4" fill="#58007C" opacity="0.196507" cx="61" cy="128" r="5"></circle>
+                <g id="Group-2-Copy-2" transform="translate(0.000000, 263.000000)">
+                    <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="76" height="5"></rect>
+                    <rect id="Rectangle-Copy" fill="#D8D8D8" x="0" y="11" width="76" height="5"></rect>
+                    <rect id="Rectangle-Copy-2" fill="#D8D8D8" x="0" y="22" width="76" height="5"></rect>
+                    <rect id="Rectangle-Copy-11" fill="#9D9D9D" x="4" y="22" width="8" height="5"></rect>
+                    <rect id="Rectangle-Copy-3" fill="#D8D8D8" x="0" y="33" width="76" height="5"></rect>
+                    <rect id="Rectangle-Copy-4" fill="#D8D8D8" x="0" y="44" width="76" height="5"></rect>
+                    <rect id="Rectangle-Copy-5" fill="#D8D8D8" x="0" y="55" width="76" height="5"></rect>
+                    <rect id="Rectangle-Copy-6" fill="#D8D8D8" x="0" y="66" width="76" height="5"></rect>
+                    <rect id="Rectangle-Copy-7" fill="#D8D8D8" x="0" y="77" width="76" height="5"></rect>
+                    <rect id="Rectangle-Copy-8" fill="#D8D8D8" x="0" y="88" width="76" height="5"></rect>
+                    <rect id="Rectangle-Copy-19" fill="#9D9D9D" x="60" y="88" width="10" height="5"></rect>
+                    <rect id="Rectangle-Copy-9" fill="#D8D8D8" x="0" y="99" width="76" height="5"></rect>
+                    <rect id="Rectangle" fill="#58007C" x="27" y="55" width="14" height="5"></rect>
+                </g>
+                <text id="Relationale-Verben" font-family="Helvetica" font-size="14" font-weight="normal" fill="#000000">
+                    <tspan x="0" y="14">Relationale </tspan>
+                    <tspan x="0" y="31">Verben</tspan>
+                </text>
+            </g>
+            <g id="Group-4" transform="translate(180.000000, 0.000000)">
+                <path d="M15,174 L61,128" id="Line" stroke="#58007C" stroke-width="2" stroke-linecap="square"></path>
+                <circle id="Oval-Copy" stroke="#9D9D9D" stroke-width="2" fill="#FFFFFF" cx="15" cy="174" r="5"></circle>
+                <circle id="Oval-Copy-2" stroke="#9D9D9D" stroke-width="2" fill="#FFFFFF" cx="61" cy="128" r="5"></circle>
+                <g id="Group-2-Copy" transform="translate(0.000000, 263.000000)">
+                    <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="76" height="5"></rect>
+                    <rect id="Rectangle-Copy" fill="#D8D8D8" x="0" y="11" width="76" height="5"></rect>
+                    <rect id="Rectangle-Copy-2" fill="#D8D8D8" x="0" y="22" width="76" height="5"></rect>
+                    <rect id="Rectangle-Copy-3" fill="#D8D8D8" x="0" y="33" width="76" height="5"></rect>
+                    <rect id="Rectangle-Copy-4" fill="#D8D8D8" x="0" y="44" width="76" height="5"></rect>
+                    <rect id="Rectangle-Copy-5" fill="#D8D8D8" x="0" y="55" width="76" height="5"></rect>
+                    <rect id="Rectangle-Copy-6" fill="#D8D8D8" x="0" y="66" width="76" height="5"></rect>
+                    <rect id="Rectangle-Copy-7" fill="#D8D8D8" x="0" y="77" width="76" height="5"></rect>
+                    <rect id="Rectangle-Copy-8" fill="#D8D8D8" x="0" y="88" width="76" height="5"></rect>
+                    <rect id="Rectangle-Copy-9" fill="#D8D8D8" x="0" y="99" width="76" height="5"></rect>
+                    <path d="M28,16 L35,22" id="Line-8" stroke="#9D9D9D" stroke-linecap="square"></path>
+                    <path d="M47,27 L57.5,35.5" id="Line-9" stroke="#9D9D9D" stroke-linecap="square"></path>
+                    <rect id="Rectangle-Copy-10" fill="#9D9D9D" x="16" y="11" width="12" height="5"></rect>
+                    <rect id="Rectangle-Copy-11" fill="#9D9D9D" x="55" y="33" width="12" height="5"></rect>
+                    <rect id="Rectangle" fill="#58007C" x="35" y="22" width="12" height="5"></rect>
+                </g>
+                <text id="Relationen" font-family="Helvetica" font-size="14" font-weight="normal" fill="#000000">
+                    <tspan x="0" y="14">Relationen</tspan>
+                </text>
+            </g>
+            <g id="Group-8" transform="translate(520.000000, 0.000000)">
+                <g id="Group" transform="translate(4.000000, 114.000000)" stroke="#58007C">
+                    <path d="M11,71 L5,5" id="Line-3" stroke-dasharray="5,3"></path>
+                    <path d="M73,60 C73,60 64.3333333,52.6666667 47,38" id="Line-5" stroke-dasharray="5,3"></path>
+                    <path d="M47,37 C47,37 55.6666667,29.6666667 73,15" id="Line-5" stroke-dasharray="5,3"></path>
+                    <path d="M5,5 L47,38" id="Line-7" stroke-dasharray="5,3"></path>
+                    <circle id="Oval-Copy-2" stroke-width="2" fill="#FFFFFF" cx="73" cy="60" r="5"></circle>
+                    <circle id="Oval-Copy-10" stroke-width="2" fill="#FFFFFF" cx="73" cy="15" r="5"></circle>
+                    <circle id="Oval-Copy" stroke-width="2" fill="#FFFFFF" cx="11" cy="70" r="5"></circle>
+                    <circle id="Oval-Copy-9" stroke-width="2" fill="#FFFFFF" cx="47" cy="38" r="5"></circle>
+                    <circle id="Oval-Copy-8" stroke-width="2" fill="#FFFFFF" cx="5" cy="5" r="5"></circle>
+                </g>
+                <g id="Group-2-Copy-5" transform="translate(0.000000, 263.000000)">
+                    <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="76" height="5"></rect>
+                    <rect id="Rectangle-Copy" fill="#D8D8D8" x="0" y="11" width="76" height="5"></rect>
+                    <rect id="Rectangle-Copy-2" fill="#D8D8D8" x="0" y="22" width="76" height="5"></rect>
+                    <rect id="Rectangle-Copy-3" fill="#D8D8D8" x="0" y="33" width="76" height="5"></rect>
+                    <rect id="Rectangle-Copy-4" fill="#D8D8D8" x="0" y="44" width="76" height="5"></rect>
+                    <rect id="Rectangle-Copy-5" fill="#D8D8D8" x="0" y="55" width="76" height="5"></rect>
+                    <rect id="Rectangle-Copy-6" fill="#D8D8D8" x="0" y="66" width="76" height="5"></rect>
+                    <rect id="Rectangle-Copy-7" fill="#D8D8D8" x="0" y="77" width="76" height="5"></rect>
+                    <rect id="Rectangle-Copy-8" fill="#D8D8D8" x="0" y="88" width="76" height="5"></rect>
+                    <rect id="Rectangle-Copy-9" fill="#D8D8D8" x="0" y="99" width="76" height="5"></rect>
+                    <path d="M64,16 L61,68.5" id="Line-10" stroke="#58007C" fill="#40005A" stroke-dasharray="5,3"></path>
+                    <path d="M26,36 L14.5,79.5" id="Line-12" stroke="#58007C" stroke-dasharray="5,3"></path>
+                    <path d="M28,36 C28,36 39,46.8333333 61,68.5" id="Line-15" stroke="#58007C" stroke-dasharray="5,3"></path>
+                    <rect id="Rectangle" fill="#58007C" x="22" y="33" width="12" height="5"></rect>
+                    <rect id="Rectangle-Copy-16" fill="#58007C" x="10" y="77" width="9" height="5"></rect>
+                    <rect id="Rectangle-Copy-17" fill="#58007C" x="58" y="66" width="6" height="5"></rect>
+                    <rect id="Rectangle-Copy-18" fill="#58007C" x="58" y="11" width="12" height="5"></rect>
+                </g>
+                <text id="Raumthemen" font-family="Helvetica" font-size="14" font-weight="normal" fill="#000000">
+                    <tspan x="0" y="14">Raumthemen</tspan>
+                </text>
+            </g>
+            <g id="Group-6" transform="translate(860.000000, 0.000000)">
+                <path d="M0,166.119057 C0,190.081808 18,190.081808 31.2,190.081808 C44.4,190.081808 78,176.388808 78,150.714431 C78,125.040055 63.6521739,88.3487655 42,111.347054 C20.3478261,134.345343 0,142.156306 0,166.119057 Z" id="Path" stroke="#58007C" stroke-width="2" stroke-dasharray="5,3"></path>
+                <g id="Group-2-Copy-3" transform="translate(1.000000, 263.000000)">
+                    <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="76" height="5"></rect>
+                    <rect id="Rectangle-Copy" fill="#D8D8D8" x="0" y="11" width="76" height="5"></rect>
+                    <rect id="Rectangle-Copy-2" fill="#D8D8D8" x="0" y="22" width="76" height="5"></rect>
+                    <rect id="Rectangle-Copy-3" fill="#D8D8D8" x="0" y="33" width="76" height="5"></rect>
+                    <rect id="Rectangle-Copy-4" fill="#D8D8D8" x="0" y="44" width="76" height="5"></rect>
+                    <rect id="Rectangle-Copy-5" fill="#D8D8D8" x="0" y="55" width="76" height="5"></rect>
+                    <rect id="Rectangle-Copy-6" fill="#D8D8D8" x="0" y="66" width="76" height="5"></rect>
+                    <rect id="Rectangle-Copy-7" fill="#D8D8D8" x="0" y="77" width="76" height="5"></rect>
+                    <rect id="Rectangle-Copy-8" fill="#D8D8D8" x="0" y="88" width="76" height="5"></rect>
+                    <rect id="Rectangle-Copy-9" fill="#D8D8D8" x="0" y="99" width="76" height="5"></rect>
+                    <rect id="Rectangle" fill="#58007C" x="12" y="11" width="8" height="5"></rect>
+                    <rect id="Rectangle-Copy-12" fill="#58007C" x="50" y="44" width="8" height="5"></rect>
+                    <rect id="Rectangle-Copy-13" fill="#58007C" x="12" y="66" width="8" height="5"></rect>
+                    <rect id="Rectangle-Copy-14" fill="#58007C" x="52" y="77" width="8" height="5"></rect>
+                </g>
+                <text id="Raumhinweise" font-family="Helvetica" font-size="14" font-weight="normal" fill="#000000">
+                    <tspan x="1" y="14">Raumhinweise</tspan>
+                </text>
+            </g>
+            <g id="Group-7" transform="translate(690.000000, 0.000000)">
+                <path id="Line-2" d="M38,115.388889 L34.75,108.388889 L41.25,108.388889 L38,115.388889 Z" fill="#9D9D9D" fill-rule="nonzero"></path>
+                <path id="Line-2-Copy" d="M38,194.388889 L34.75,187.388889 L41.25,187.388889 L38,194.388889 Z" fill="#9D9D9D" fill-rule="nonzero"></path>
+                <path id="Line-2-Copy-2" d="M65,154.388889 L61.75,147.388889 L68.25,147.388889 L65,154.388889 Z" fill="#9D9D9D" fill-rule="nonzero"></path>
+                <path id="Line-2-Copy-3" d="M11.5,153.888889 L8.25,146.888889 L14.75,146.888889 L11.5,153.888889 Z" fill="#9D9D9D" fill-rule="nonzero"></path>
+                <use id="Rectangle" stroke="#58007C" mask="url(#mask-2)" stroke-width="4" stroke-dasharray="5,3" xlink:href="#path-1"></use>
+                <g id="Group-2-Copy-4" transform="translate(0.000000, 263.000000)">
+                    <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="76" height="5"></rect>
+                    <rect id="Rectangle-Copy" fill="#D8D8D8" x="0" y="11" width="76" height="5"></rect>
+                    <rect id="Rectangle-Copy-2" fill="#D8D8D8" x="0" y="22" width="76" height="5"></rect>
+                    <rect id="Rectangle-Copy-3" fill="#D8D8D8" x="0" y="33" width="76" height="5"></rect>
+                    <rect id="Rectangle-Copy-4" fill="#D8D8D8" x="0" y="44" width="76" height="5"></rect>
+                    <rect id="Rectangle-Copy-5" fill="#D8D8D8" x="0" y="55" width="76" height="5"></rect>
+                    <rect id="Rectangle-Copy-6" fill="#D8D8D8" x="0" y="66" width="76" height="5"></rect>
+                    <rect id="Rectangle-Copy-7" fill="#D8D8D8" x="0" y="77" width="76" height="5"></rect>
+                    <rect id="Rectangle-Copy-8" fill="#D8D8D8" x="0" y="88" width="76" height="5"></rect>
+                    <rect id="Rectangle-Copy-9" fill="#D8D8D8" x="0" y="99" width="76" height="5"></rect>
+                    <rect id="Rectangle" fill="#58007C" x="20" y="22" width="9" height="5"></rect>
+                    <rect id="Rectangle-Copy-15" fill="#9D9D9D" x="32" y="22" width="23" height="5"></rect>
+                </g>
+                <text id="Raumbeschreibungen" font-family="Helvetica" font-size="14" font-weight="normal" fill="#000000">
+                    <tspan x="0" y="14">Raumbeschreibungen</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
